@@ -9,3 +9,15 @@
 - 与 `deepgarden-ipo-research`（新股研究）、`deepgarden-earnings-tracking`（定期财报跟踪）、
   `deepgarden-report-deep-read`（研报精读）同属 DeepGarden 系列，形成
   「商机筛选 → 标的投研 → 业绩跟踪 → 研报复核」闭环。
+
+## DeepGarden 新股研究（deepgarden-ipo-research）
+
+五维度 IPO 评估框架（基本面 / 发行定价 / 行业赛道 / 募投合理性 / 上市表现），面向 A 股 / 港股打新与次新股研究。
+
+## DeepGarden 定期财报跟踪（deepgarden-earnings-tracking）
+
+按提示词框架批量阅读上市公司定期报告（年报 / 季报），自动生成结构化 Obsidian MD 阅读笔记，沉淀业绩跟踪资产。
+
+## DeepGarden 公司研报精读（deepgarden-report-deep-read）
+
+四步研报精读框架 + 研报跟踪对比 Hub + 与定期报告系列双向印证；按公司归档，输出带引用标注的 Obsidian MD。
